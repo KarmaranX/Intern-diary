@@ -11,3 +11,9 @@
     import os
     print(dir(os)) 
 ```
+![Dog](https://raw.githubusercontent.com/KarmaranX/Intern-diary/master/assets/dog.jpg)
+
+---
+
+- [ ] Markdown
+- [X] Python 
